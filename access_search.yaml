@@ -1,0 +1,7 @@
+name: access_search
+author: Allan Chang
+version: 1.0
+desc: Search by access level
+config_url: /plugins/access_search/pages/setup.php
+category: Search
+default_priority: 999
